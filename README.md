@@ -17,4 +17,6 @@ git remote add origin https://github.com/zemaochen/github.git
 git push -u origin master
 ```
 
-# 
+### 文件修改
+
+- 先git add->git commit->git push
