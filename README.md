@@ -1,9 +1,8 @@
-### …or create a new repository on the command line
+### git的初步使用
 
 
 
-```
-echo "# github" >> README.md
+```git
 git init
 git add README.md
 git commit -m "first commit"
@@ -11,12 +10,11 @@ git remote add origin https://github.com/zemaochen/github.git
 git push -u origin master
 ```
 
-### …or push an existing repository from the command line
-
-
+### 发布
 
 ```
 git remote add origin https://github.com/zemaochen/github.git
 git push -u origin master
 ```
 
+# 
